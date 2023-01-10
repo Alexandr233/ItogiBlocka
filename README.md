@@ -11,4 +11,4 @@
 
 Блок-схема
 
-![] (https://github.com/Alexandr233/ItogiBlocka/blob/master/cxema.png)
+![block-cxema](https://github.com/Alexandr233/ItogiBlocka/blob/master/cxema.png)
