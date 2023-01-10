@@ -8,3 +8,7 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 
 [“Russia”, “Denmark”, “Kazan”] → []
+
+Блок-схема
+
+![] (https://github.com/Alexandr233/ItogiBlocka/blob/master/cxema.png)
